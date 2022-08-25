@@ -8,8 +8,7 @@ bridgehead-2:
 - Configuration of bridgehead-1: TARGET_BRIDGEHEAD_URL and TARGET_BRIDEHEAD_APIKEY of bridgehead-2
 
 
-- Configuration of bridgehead-2: TRANSFER_FILES_CRON_EXPR=-
-  With this configuration, no files will be transferred to any additional bridgehead.
+- Configuration of bridgehead-2: With this configuration, no files will be transferred to any additional bridgehead.
 
 Of course, TARGET_BRIDGEHEAD_URL and TARGET_BRIDGEHEAD_APIKEY don't need to be specified.
 
